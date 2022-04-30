@@ -1,10 +1,9 @@
-package 문자열;
+package 백준문제풀이.문자열;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.Arrays;
 
 public class p_1652 {
     /**

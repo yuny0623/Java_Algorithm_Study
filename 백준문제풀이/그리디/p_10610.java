@@ -1,9 +1,8 @@
-package 그리디;
+package 백준문제풀이.문자열.그리디;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class p_10610 {
     public static void main(String[] args) throws Exception {
