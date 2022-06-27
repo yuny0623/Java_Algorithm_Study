@@ -1,4 +1,4 @@
-package 백준문제풀이.문자열.그리디;
+package BOJ.문자열.그리디;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

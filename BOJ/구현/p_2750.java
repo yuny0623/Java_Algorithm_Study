@@ -1,4 +1,4 @@
-package 백준문제풀이.문자열.구현;
+package BOJ.문자열.구현;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
